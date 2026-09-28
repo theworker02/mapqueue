@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/mapqueue",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Map host/queue network string helpers for config audits.",
+  "bin": {
+    "mapqueue": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/mapqueue.git"
+  },
+  "homepage": "https://theworker02.github.io/mapqueue/",
+  "keywords": [
+    "map",
+    "queue",
+    "net",
+    "cli",
+    "toolkit"
+  ]
+}
